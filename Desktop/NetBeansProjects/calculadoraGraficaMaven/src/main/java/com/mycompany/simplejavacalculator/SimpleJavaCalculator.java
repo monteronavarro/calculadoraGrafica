@@ -22,8 +22,7 @@ public class SimpleJavaCalculator {
       try {
          UI uiCal = new UI();
          uiCal.init();
-         System.out.println("todo bien");
-           System.out.println("todo bien");
+         System.out.println("Carga correcta de interfaz");
       }
       catch (Exception e) {
          System.out.println(e.getMessage());   
