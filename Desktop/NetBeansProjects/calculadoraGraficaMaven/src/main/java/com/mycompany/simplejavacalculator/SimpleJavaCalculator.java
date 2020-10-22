@@ -24,6 +24,8 @@ public class SimpleJavaCalculator {
          uiCal.init();
          System.out.println("Codigo ejecutado");
          System.out.println("Codigo ejecutado");
+         System.out.println("Codigo ejecutado");
+         System.out.println("Codigo ejecutado");
       }
       catch (Exception e) {
          System.out.println(e.getMessage());   
