@@ -23,6 +23,7 @@ public class SimpleJavaCalculator {
          UI uiCal = new UI();
          uiCal.init();
          System.out.println();
+         System.out.println();
       }
       catch (Exception e) {
          System.out.println(e.getMessage());   
