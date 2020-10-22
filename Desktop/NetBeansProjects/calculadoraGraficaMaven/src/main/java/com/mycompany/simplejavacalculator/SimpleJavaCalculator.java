@@ -22,7 +22,7 @@ public class SimpleJavaCalculator {
       try {
          UI uiCal = new UI();
          uiCal.init();
-         System.out.println();
+         System.out.println("Hola");
       }
       catch (Exception e) {
          System.out.println(e.getMessage());   
