@@ -63,6 +63,8 @@ public class Calculator {
             num2 = 0.0;
             num1 = num;
             mode = newMode;
+                   System.out.println("Codigo ejecutado");
+         System.out.println("Codigo ejecutado");
             return NaN;
         } else {
             num2 = num;
